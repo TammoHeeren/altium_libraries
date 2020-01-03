@@ -8,3 +8,5 @@ Each folder has it's own README.md file detailing the parts that are contained i
 Enjoy,
 
 Tammo
+
+1. [AMS] (/AMS/README.md)
