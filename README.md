@@ -13,3 +13,4 @@ Tammo
 
 1. [AMS](AMS)
 1. [MillMax](MillMax)
+1. [Samsung](Samsung)
