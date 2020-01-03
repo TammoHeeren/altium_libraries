@@ -9,4 +9,4 @@ Enjoy,
 
 Tammo
 
-1. [AMS] (/AMS/README.md)
+1. [AMS] (AMS/README.md)
