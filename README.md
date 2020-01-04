@@ -13,5 +13,6 @@ Tammo
 
 1. [AMS](AMS)
 1. [MillMax](MillMax)
+1. [Murata](Murata)
 1. [Omron](Omron)
 1. [Samsung](Samsung)
