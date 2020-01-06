@@ -16,3 +16,4 @@ Tammo
 1. [Murata](Murata)
 1. [Omron](Omron)
 1. [Samsung](Samsung)
+1. [Seeed](Seeed)
