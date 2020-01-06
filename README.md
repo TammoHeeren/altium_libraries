@@ -17,3 +17,4 @@ Tammo
 1. [Omron](Omron)
 1. [Samsung](Samsung)
 1. [Seeed](Seeed)
+1. [Tag Connect](TagConnect)
