@@ -11,6 +11,7 @@ Tammo
 
 # List of Libraries
 
+1. [Adafruit](Adafruit)
 1. [AMS](AMS)
 1. [MillMax](MillMax)
 1. [Murata](Murata)
