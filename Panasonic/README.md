@@ -1,5 +1,7 @@
 # Panasonic
 
+## Single Resistors
+
 1. ERJ-XGNJ102Y - 1 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
 1. ERJ-XGNJ103Y - 10 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
 1. ERJ-XGNJ104Y - 100 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
@@ -14,3 +16,7 @@
 1. ERJ-XGNJ332Y - 3.3 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
 1. ERJ-XGNJ472Y - 4.7 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
 1. ERJ-XGNJ822Y - 8.2 kOhms ±5% 0.03W, 1/32W Chip Resistor 01005 (0402 Metric)  Thick Film
+
+## Array Resistors
+
+1. EXB-34V220JV	- 22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 0606, Convex
