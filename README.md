@@ -13,6 +13,7 @@ Tammo
 
 1. [Adafruit](Adafruit)
 1. [AMS](AMS)
+1. [Kyocera](Kyocera)
 1. [MillMax](MillMax)
 1. [Murata](Murata)
 1. [Omron](Omron)
