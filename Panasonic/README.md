@@ -20,3 +20,4 @@
 ## Array Resistors
 
 1. EXB-34V220JV	- 22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 0606, Convex
+1. EXB-14V220JV - 22 Ohm ±5% 31mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 0302 (0805 Metric), Convex, Long Side Terminals
