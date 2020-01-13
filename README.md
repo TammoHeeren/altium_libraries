@@ -12,6 +12,7 @@ Tammo
 # List of Libraries
 
 1. [Adafruit](Adafruit)
+1. [Analog Devices](AnalogDevices)
 1. [AMS](AMS)
 1. [Kyocera](Kyocera)
 1. [MillMax](MillMax)
