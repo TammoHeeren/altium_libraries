@@ -19,6 +19,7 @@ Tammo
 1. [Kyocera](Kyocera)
 1. [MillMax](MillMax)
 1. [Murata](Murata)
+1. [Nexperia](Nexperia)
 1. [Omron](Omron)
 1. [Panasonic](Panasonic)
 1. [Samsung](Samsung)
