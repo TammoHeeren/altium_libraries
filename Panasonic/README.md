@@ -23,3 +23,7 @@
 1. EXB-14V220JV - 22 Ohm ±5% 31mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 0302 (0805 Metric), Convex, Long Side Terminals
 1. EXB-14V104JX - 100k Ohm ±5% 31mW Power Per Element Isolated  Resistor Network/Array ±200ppm/°C 0302 (0805 Metric), Convex, Long Side Terminals
 1. EXB-14V105JX - 1M Ohm ±5% 31mW Power Per Element Isolated  Resistor Network/Array ±200ppm/°C 0302 (0805 Metric), Convex, Long Side Terminals
+
+## Membrane Switches
+
+1. EVP-AVAA1A - Tactile Switch SPST-NO Side Actuated Edge Mount, Right Angle
